@@ -1,0 +1,12 @@
+{
+  "name": "quorumgossip-mesh",
+  "version": "1.0.0",
+  "description": "Phi-Accrual adaptive failure detection algorithm combined with epidemic gossip anti-entropy synchronization for high-scale distributed membership clusters.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/run_tests.js"
+  },
+  "author": "Ali Nurettin Demir (alinurettin)",
+  "license": "MIT"
+}
